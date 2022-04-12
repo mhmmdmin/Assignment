@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhmmdmin
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning R language
+- 🌱 I’m currently learning R and Python language
 - 💞️ I’m looking to collaborate on some Analytics projects
 - 📫 How to reach me / email me @ mhmmdamind@gmail.com or dm me on IG @mhmmdmin
 
